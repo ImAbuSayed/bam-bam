@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bam-bam/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Bam Bam](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bam-bam/) |
+| **Get License** | [Get a Licensing Quote for Bam Bam](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bam-bam/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> ਕੱਚ ਦੀਆਂ ਕੰਧਾਂ ਤੇ dancing shadows
+> ਮੈਂ ਤੈਨੂੰ ਤੱਕਦਾ ਹਾਂ leaving my sorrows
+> ਤੇਰੀ ਖੁਸ਼ਬੂ ਹਵਾ ਵਿੱਚ toxic sweet
+> ਮੇਰੇ ਦਿਲ ਦੀ ਧੜਕਣ skips a beat
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
