@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bam-bam/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Bam Bam](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bam-bam/) |
+| **Get License** | [Request Licensing for Bam Bam](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bam-bam/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `0d06e772099f546ed0ad151b9351bfde546c6a2bdb41bf81d12d2ead5abf40b1` |
 | **Timestamp** | May 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

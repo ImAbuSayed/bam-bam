@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Bam Bam
+
+This log tracks the cryptographic history and versioning for the song **Bam Bam** (bam-bam).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-22T01:31:21.877420 | `v1` | `0d06e772099f546ed0ad151b9351bfde546c6a2bdb41bf81d12d2ead5abf40b1` | `868e251533cac623877bb252e96a4f60a3cc675f9e4e7bb88104587eab2fc073` | `2026-05-22_bam-bam-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
